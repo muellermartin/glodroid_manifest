@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <include name="aosp-11.xml" />
+  <include name="glodroid.xml" />
+
+  <extend-project name="glodroid_device.git"        revision="next-r" />
+
+</manifest>
