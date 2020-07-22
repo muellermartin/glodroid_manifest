@@ -59,7 +59,7 @@ After successful build you should see **images.tar.gz** in product output folder
 ### Step 1
 Using any available iso-to-usb utility prepare recovery SDCARD.  
 In case you want to flash Android on sdcard, use *deploy-sd.img*  
-In case you want to flash Android on eMMC, use *deploy-sd-for.emmc.img*  
+In case you want to flash Android on eMMC, use *deploy-sd-for-emmc.img*  
   
 ### Step 2
 Insert recovery sdcard into the target board.  
